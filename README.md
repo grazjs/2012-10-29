@@ -1,7 +1,7 @@
 # graz.js 2012-10-29
 ## Einführung Node.js
 
-    git clone
+    git clone git://github.com/grazjs/2012-10-29.git
 
 or
 
@@ -21,16 +21,16 @@ the samples are located in the `code` directory
 
 ###links
 #### talk
-[http://nodejs.org/](Node.js)
-[http://api.nodejs.org](Node.js API Docs)
+[Node.js](http://nodejs.org/)
+[Node.js API Docs](http://api.nodejs.org)
 
-[http://en.wikipedia.org/wiki/List_of_HTTP_status_codes](HTTP Status Codes)
-[http://htmlshell.com/](html shell)
-[http://www.w3.org/TR/eventsource/](Server-Send Events / EventSource)
+[HTTP Status Codes](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+[html shell](http://htmlshell.com/)
+[Server-Send Events / EventSource](http://www.w3.org/TR/eventsource/)
 
 #### discussion
-[http://www.sublimetext.com/](SublimeText2)
-[http://browserver.org/](browserver)
-[http://npmjs.org](npm)
-[https://github.com/isaacs/npm-www](npm-www)
-[http://www.youtube.com/jsconfeu](JSConfEU)
+[SublimeText2](http://www.sublimetext.com/)
+[browserver](http://browserver.org/)
+[npm](http://npmjs.org)
+[npm-www](https://github.com/isaacs/npm-www)
+[jsConf.eu](http://www.youtube.com/jsconfeu)
